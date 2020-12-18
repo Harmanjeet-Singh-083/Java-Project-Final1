@@ -1,0 +1,5 @@
+Account no is710938
+Name of customer :harmanjeet
+BAlance of an account:718.0
+interest rate for account :5
+Yearly charges for the account 100withdrawl charges $2 everytime 

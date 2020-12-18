@@ -1,0 +1,5 @@
+Account no is467861
+Name of customer :harman
+BAlance of an account:145.0
+interest rate for account :5
+Yearly charges for the account 100

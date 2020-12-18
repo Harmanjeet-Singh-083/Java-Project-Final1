@@ -1,0 +1,5 @@
+Account no is548708
+Name of customer :dsdds
+BAlance of an account:48.0
+interest rate for account :5
+Yearly charges for the account 100withdrawl charges $2 everytime 

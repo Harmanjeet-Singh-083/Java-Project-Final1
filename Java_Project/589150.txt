@@ -1,0 +1,5 @@
+Account no is589150
+Name of customer :harman
+BAlance of an account:-9.0
+interest rate for account :5
+Yearly charmanges for the account 100withdrawl charmanges $2 everytime 

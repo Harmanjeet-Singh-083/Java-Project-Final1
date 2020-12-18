@@ -1,0 +1,5 @@
+Account no is163430
+Name of customer :harman
+BAlance of an account:532.0
+interest rate for account :2
+Yearly charges for the account 200

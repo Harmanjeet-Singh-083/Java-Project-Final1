@@ -1,0 +1,5 @@
+Account no is771514
+Name of customer :Harmanjeet Singh
+BAlance of an account:358.0
+interest rate for account :5
+Yearly charges for the account 100withdrawl charges $2 everytime 

@@ -1,0 +1,5 @@
+Account no is132296
+Name of customer :Harman
+BAlance of an account:405.0
+interest rate for account :5
+Yearly charges for the account 100withdrawl charges $2 everytime 

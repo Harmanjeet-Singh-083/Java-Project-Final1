@@ -1,0 +1,6 @@
+Account no is89141
+Name of customer :Harmanjeet Singh
+BAlance of an account:641.0
+interest rate for account :2
+Yearly charges for the account 200
+withdrawl charges $2 everytime 
