@@ -96,8 +96,7 @@ public class BankAccount
    }
 
    /**
-      The transfer method transfer an amount
-      from the account.
+      The transfer method pay utility bills
       @param str The amount to subtract from
                  the balance field, as a String.
    */

@@ -16,7 +16,7 @@ public class Customer {
 			
 			
 			
-		  //Employee class constructor
+		  //Employee class constructor 
 		  public Customer(int bAcc, String customerName, double balance2, int intr, int chrg){
 		     bankAccount = bAcc;
 		     name = customerName;
@@ -25,6 +25,8 @@ public class Customer {
 		     charges=chrg;
 		     
 		  }
+		  
+		  // method to show the account details
 		public void showData(){
 		   System.out.print("ACCOUNT NO is= "+bankAccount  + "\n  " + " CUSTOMER Name = "+name +"\n"+
 				   "Balance is  " +balance+" \n"+" interest rate is  "+interest+"\n"+
@@ -35,7 +37,7 @@ public class Customer {
 		
 		
 			
-		
+		// method to create a .txt file 
 		
 		public void fileCreate() throws FileNotFoundException {
 			
