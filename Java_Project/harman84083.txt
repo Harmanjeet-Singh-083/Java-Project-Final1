@@ -1,0 +1,5 @@
+Account no is84083
+Name of customer :harman
+BAlance of an account:678.0
+interest rate for account :2
+Yearly charges for the account 200withdrawl charges $2 everytime 
