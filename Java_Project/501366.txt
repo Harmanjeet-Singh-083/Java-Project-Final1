@@ -1,0 +1,5 @@
+Account no is501366
+Name of customer :hahds
+BAlance of an account:113.0
+interest rate for account :5
+Yearly charges for the account 100withdrawl charges $2 everytime 

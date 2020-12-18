@@ -1,0 +1,5 @@
+Account no is524738
+Name of customer :sdfds
+BAlance of an account:502.0
+interest rate for account :5
+Yearly charges for the account 100withdrawl charges $2 everytime 

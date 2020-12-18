@@ -1,0 +1,5 @@
+Account no is425590
+Name of customer :sukh
+BAlance of an account:985.0
+interest rate for account :5
+Yearly charges for the account 100withdrawl charges $2 everytime 
