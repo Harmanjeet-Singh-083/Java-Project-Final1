@@ -152,7 +152,8 @@ public class BankAccount {
 
 		   public double getBalance()
 		   {
-		      return balance;
+		     
+			   return balance;
 		   }
 	
 
