@@ -33,7 +33,7 @@ public class Customer {
 		
 		public void fileCreate() throws FileNotFoundException {
 			
-			PrintWriter file2 = new PrintWriter(bankAccount+".txt"  );
+			PrintWriter file2 = new PrintWriter(bankAccount+".txt");
 			file2.println("Account no is"+bankAccount);
 			file2.println("Name of customer :"+name);
 			file2.println("BAlance of an account:"+balance);
