@@ -1,0 +1,6 @@
+[filesystem "AdoptOpenJDK|11.0.8|-826007023"]
+	timestampResolution = 1025 microseconds
+	minRacyThreshold = 0 nanoseconds
+[filesystem "AdoptOpenJDK|11.0.8|-1037555108"]
+	timestampResolution = 1985 microseconds
+	minRacyThreshold = 0 nanoseconds
