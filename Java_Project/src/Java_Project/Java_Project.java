@@ -16,6 +16,10 @@ public class Java_Project {
 		//Harmanjeet Singh
 		System.out.println("Welcome to the java Project");
 		// TODO Auto-generated method stub
+		
+		//Rekha Rani
+		System.out.println("Rekha Rani");
+		
 
 	}
 

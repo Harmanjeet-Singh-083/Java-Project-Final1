@@ -1,0 +1,5 @@
+Account no is399125
+Name of customer :sandeep kaur
+BAlance of an account:2698.0
+interest rate for account :5
+Yearly charges for the account 100withdrawl charges $2 everytime 
