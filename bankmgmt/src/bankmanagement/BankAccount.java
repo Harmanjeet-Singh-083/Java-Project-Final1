@@ -13,6 +13,13 @@ public class BankAccount {
 	 * @param args
 	 */
 	
+		 private double balance;      // Account balance
+
+		   /**
+		      This constructor sets the starting balance
+		      at 0.0.
+		   */
+
 		   public BankAccount()
 		   {
 		      balance = 0.0;
@@ -152,8 +159,7 @@ public class BankAccount {
 
 		   public double getBalance()
 		   {
-			   
-			   return balance;
+		      return balance;
 		   }
 	
 
